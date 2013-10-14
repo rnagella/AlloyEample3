@@ -1,0 +1,7 @@
+<Alloy>
+  <Window backgroundColor="blue" layout="Vertical">
+    <Label> Alloy New window...!</Label>
+    <Label id = "myUseData" visible="false" text=""></Label>
+    <Button id="closeWin" onClick="closeWin" title="Close New Window" />
+  </Window>
+</Alloy>

@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/rnagella/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/iphone",
+	"appGuid": "4d3b7175-b8da-433d-86e8-b5acedca4fe7",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "f7592c1",
+	"name": "AlloyExample2",
+	"id": "com.tialloy.blogspot.alloyexample2",
+	"analytics": false,
+	"publisher": "rnagella",
+	"url": "http://",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2013 by rnagella",
+	"guid": "4d3b7175-b8da-433d-86e8-b5acedca4fe7",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"liveview": true
+}

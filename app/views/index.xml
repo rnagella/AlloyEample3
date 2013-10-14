@@ -1,0 +1,6 @@
+<Alloy>
+  <Window class="container" layout="Vertical">
+    <TextField id="userInput" borderStyle="Ti.UI.INPUT_BORDERSTYLE_ROUNDED" color="#336699" left="10" width="250" height="60" top="10dip" />
+    <Button onClick="doClick" title="Open New Window" top="10dip" backgroundColor="blue" />
+  </Window>
+</Alloy>

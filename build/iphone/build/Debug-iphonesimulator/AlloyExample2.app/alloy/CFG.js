@@ -1,0 +1,1 @@
+/Users/rnagella/Documents/Appcelerator_Studio_Workspace/AlloyExample2/Resources/iphone/alloy/CFG.js
